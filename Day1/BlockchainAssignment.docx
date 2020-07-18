@@ -1,0 +1,30 @@
+                                        Assignment1
+
+
+Question 1:What is your understanding of Blockchain?
+Answer:
+        Blockchain is a chain in which the blocks are in the cryptographic manner means unreadable format.It is a datastructure which holds transactional records with security.
+        
+Question 2:What is the core problem Blockchain trying to solve?
+Answer:
+        1.Blockchain Addresses The Problem Of Data Loss Due To Hardware Or Connectivity Issues
+        2.Blockchain Addresses The Problem Of Data Corruption Due To Intermittent Hardware Or Connectivity Issues
+        3.Blockchain Addresses The Problem Of Data Security And Trust By Making The Ledger Public
+        4.Potential Problems With Blockchain Technology
+        
+Question 3:What are the few features which Blockchain will give you?
+Answer:
+        1. Cannot be Corrupted
+        2. Decentralized Technology
+        3. Enhanced Security
+        4. Distributed Ledgers
+        5. Consensus
+        6. Faster Settlement
+        
+Question 4:What all things does a Block contain?
+Answer:
+        Each block contains a cryptographic hash of the previous block.A block can be thought of like a link in a chain. 
+        
+Question 5:How is the verifiability of Blockchain has been attained?
+Answer:
+        
